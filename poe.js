@@ -1,14 +1,11 @@
-
 // ==UserScript==
 // @name        poe.com
 // @namespace   Violentmonkey Scripts
 // @match       https://poe.com/*
 // @grant       none
 // @version     1.0
-// @author       sdsaati
-// @require      http://code.jquery.com/jquery-3.4.1.min.js
-// @require      https://code.jquery.com/ui/1.12.1/jquery-ui.js
-// @require      http://courses.ischool.berkeley.edu/i290-4/f09/resources/gm_jq_xhr.js
+// @author      sdsaati
+// @require
 // @description 4/1/2023, 1:22:48 PM
 // ==/UserScript==
 
