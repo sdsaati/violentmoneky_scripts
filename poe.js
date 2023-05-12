@@ -5,7 +5,7 @@
 // @grant       none
 // @version     1.0
 // @author      sdsaati
-// @require
+// @require     https://raw.githubusercontent.com/sdsaati/violentmoneky_scripts/main/lib.js
 // @description 4/1/2023, 1:22:48 PM
 // ==/UserScript==
 
