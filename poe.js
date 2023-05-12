@@ -1,3 +1,4 @@
+
 // ==UserScript==
 // @name        poe.com
 // @namespace   Violentmonkey Scripts
